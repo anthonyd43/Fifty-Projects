@@ -5,6 +5,7 @@
 }
 
 body{
+    background-color: aliceblue;
     font-family: 'Kantumruy Pro', sans-serif;
     display: flex;  
     align-items: center;
